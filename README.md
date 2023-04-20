@@ -2,7 +2,7 @@
 
 
 This repository contains the Exploratory Data Analysis and Statistical Data Visualization with Seaborn Library and XGBoost on Breast Cancer Wisconsin (Diagnostic) Data Set.
-For this i used the pandas library along with seabron library.
+For this i used the pandas library along with seaborn library.
 Throughout the process I used various types of plots like count plot, violin plots, box plots, joint plots and swarm plots.
 Also, plotted a heatmap for each pair of columns in the dataset.
 
